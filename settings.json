@@ -1,5 +1,4 @@
-
-  "name": "AFK Bot",
+ "name": "AFK Bot",
   "bot-account": {
     "username": "DbgamingLive",
     "password": "",
@@ -7,9 +6,8 @@
   },
   "server": {
     "ip": "parshu18.aternos.me",
-    "port": 59054,
-    "version": "26.2"
-  },
+    "port": :59054
+    "version": 26.2 (121)
   "position": {
     "enabled": true,
     "x": 0,
