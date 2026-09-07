@@ -6,8 +6,8 @@
   },
   "server": {
     "ip": "parshu18.aternos.me",
-    "port": :59054
-    "version": 26.2 
+    "port": : 59054,
+    "version": "1.21.1",
   "position": {
     "enabled": true,
     "x": 0,
